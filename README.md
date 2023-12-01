@@ -1,2 +1,2 @@
 # DSAcodes
-The following repository contains DSA questions solved in C language
+The following repository contains DSA questions solved in C and C++
